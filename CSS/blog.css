@@ -1,0 +1,95 @@
+.appContent {
+    width: 100%;
+    min-height: 703px;
+}
+.appContent .container {
+        max-width: 960px!important;
+    }
+    .container {
+        width: 100%;
+        position: relative;
+        background-color: #fff;
+    }
+    .container ._2jbnz {
+        margin-left: -15px;
+        margin-right: -15px;
+        height: 300px;
+    }
+    .container ._2jbnz img {
+        width: 100%;
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+    img {
+        border-style: none;
+        vertical-align: middle;
+    }
+    .container ._2jbnz {
+        margin-left: -15px;
+        margin-right: -15px;
+        height: 300px;
+    }
+    .container ._2Lm7L .oG27C {
+        width: 100%;
+        text-align: center;
+        margin: 10px 0;
+        margin-top: 40px;
+        float: left;
+    }
+    .container ._2Lm7L .oG27C {
+        font-family: Amatic SC,cursive;
+        font-size: 54px;
+        font-weight: 700;
+        color: #252525;
+    }
+    .container ._2Lm7L ._3gJ1n {
+        width: 100%;
+        display: block;
+        text-align: center;
+        float: left;
+    }
+    .container ._2Lm7L .M_AOP {
+        width: 100%;
+        margin: 40px 0;
+        line-height: 1.7;
+        text-align: justify;
+        float: left;
+    }
+    p {
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    .container ._2Lm7L ._3NaFj {
+        width: 100%;
+        margin-bottom: 70px;
+        float: left;
+        position: relative;
+    }
+    .container ._2Lm7L ._3NaFj ._3eKnJ {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: center;
+        justify-content: center;
+        z-index: 9;
+    }
+    .container ._2Lm7L ._3NaFj ._3eKnJ li a {
+        color: #8c8c8c;
+    }
+    .container ._2Lm7L ._3NaFj ._3wDk3 {
+        float: right;
+    }
+    .container ._2Lm7L ._3NaFj>button {
+        position: relative;
+        z-index: 99;
+        font-size: 14px;
+        text-transform: none;
+        color: #8c8c8c!important;
+    }
